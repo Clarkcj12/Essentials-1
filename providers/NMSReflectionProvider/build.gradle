@@ -4,7 +4,7 @@ plugins {
 
 dependencies {
     implementation project(':providers:BaseProviders')
-    api 'org.bukkit:bukkit:1.12.2-R0.1-SNAPSHOT'
+    api 'org.bukkit:bukkit:1.15.2-R0.1-SNAPSHOT'
 }
 
 essentials {

@@ -11,7 +11,7 @@ dependencies {
         exclude(module: 'spigot-api')
     }
     compileOnly 'io.papermc.paper:paper-api:1.18.1-R0.1-SNAPSHOT'
-    compileOnly 'io.papermc.paper:paper-mojangapi:1.18.1-R0.1-SNAPSHOT'
+    compileOnly 'io.papermc.paper:paper-mojangapi:1.20.6-R0.1-SNAPSHOT'
 }
 
 essentials {
